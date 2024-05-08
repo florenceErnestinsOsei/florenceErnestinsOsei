@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Florence</h1>
-<h3 align="center">with a knack for automating infrastructure in fast-paced environments. Think about building scalable applications with ease using</h3>
+<h3 align="center">A passionate and results-oriented IT professional</h3>
 
 ![Web Development & DevOps Automation Architect](https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835119.jpg?w=1400)
 
