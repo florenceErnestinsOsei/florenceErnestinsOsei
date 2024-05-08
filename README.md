@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, </h1>
+<h1 align="center">Hi there 👋 </h1>
 <h3 align="center">Automating Your Way to Success: Meet Florence </h3>
 
 ![Web Development & DevOps Automation Architect](https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835119.jpg?w=1400)
