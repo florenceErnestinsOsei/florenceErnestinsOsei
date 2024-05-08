@@ -15,13 +15,12 @@ Skills: NODE.JS / REACT / JS / HTML / CSS/EXPRESS/SQL/ LINUX/TERRAFORM/KUBERNETE
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, Node.js,Express,SQL,React and Redux**
-
 - 📫 How to reach me **florence.osei@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/florence-ernestina-osei/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florence ernestina osei" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/florence-ernestina-osei/" </a>
+  !--target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florence ernestina osei" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
