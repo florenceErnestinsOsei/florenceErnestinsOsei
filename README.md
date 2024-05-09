@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 </h1>
 <h3 align="center">Automating Your Way to Success: Meet Florence </h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=florenceernestinsosei&label=Profile%20views&color=0e75b6&style=flat" alt="florenceernestinsosei" /> </p>
 ![Web Development & DevOps Automation Architect](https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835119.jpg?w=1400)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pursuit-florence" alt="pursuit-florence" /></a> </p>
